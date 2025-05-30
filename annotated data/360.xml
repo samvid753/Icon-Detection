@@ -1,0 +1,99 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\360.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>arrow backward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>39</xmin>
+        <ymin>125</ymin>
+        <xmax>101</xmax>
+        <ymax>209</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>1037</ymin>
+        <xmax>949</xmax>
+        <ymax>1111</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>900</xmin>
+        <ymin>396</ymin>
+        <xmax>952</xmax>
+        <ymax>475</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>526</ymin>
+        <xmax>950</xmax>
+        <ymax>601</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>654</ymin>
+        <xmax>950</xmax>
+        <ymax>729</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>782</ymin>
+        <xmax>950</xmax>
+        <ymax>856</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow forward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>910</ymin>
+        <xmax>950</xmax>
+        <ymax>983</ymax>
+    </bndbox>
+</object>
+</annotation>

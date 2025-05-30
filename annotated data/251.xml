@@ -1,0 +1,99 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\251.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19</xmin>
+        <ymin>729</ymin>
+        <xmax>61</xmax>
+        <ymax>776</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19</xmin>
+        <ymin>529</ymin>
+        <xmax>62</xmax>
+        <ymax>579</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20</xmin>
+        <ymin>431</ymin>
+        <xmax>61</xmax>
+        <ymax>479</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20</xmin>
+        <ymin>629</ymin>
+        <xmax>61</xmax>
+        <ymax>677</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20</xmin>
+        <ymin>332</ymin>
+        <xmax>60</xmax>
+        <ymax>378</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>17</xmin>
+        <ymin>825</ymin>
+        <xmax>62</xmax>
+        <ymax>876</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>close</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>520</xmin>
+        <ymin>182</ymin>
+        <xmax>540</xmax>
+        <ymax>203</ymax>
+    </bndbox>
+</object>
+</annotation>

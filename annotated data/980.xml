@@ -1,0 +1,111 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\980.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>menu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>29</xmin>
+        <ymin>92</ymin>
+        <xmax>98</xmax>
+        <ymax>151</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>637</xmin>
+        <ymin>337</ymin>
+        <xmax>713</xmax>
+        <ymax>414</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>search</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>990</xmin>
+        <ymin>87</ymin>
+        <xmax>1057</xmax>
+        <ymax>158</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>close</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>763</xmin>
+        <ymin>208</ymin>
+        <xmax>824</xmax>
+        <ymax>269</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>add</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>762</xmin>
+        <ymin>1601</ymin>
+        <xmax>824</xmax>
+        <ymax>1666</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>add</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>766</xmin>
+        <ymin>1333</ymin>
+        <xmax>820</xmax>
+        <ymax>1388</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>add</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>763</xmin>
+        <ymin>1466</ymin>
+        <xmax>822</xmax>
+        <ymax>1528</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>home</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>143</xmin>
+        <ymin>333</ymin>
+        <xmax>231</xmax>
+        <ymax>420</ymax>
+    </bndbox>
+</object>
+</annotation>

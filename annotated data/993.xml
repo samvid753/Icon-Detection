@@ -1,0 +1,87 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\993.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>996</xmin>
+        <ymin>88</ymin>
+        <xmax>1039</xmax>
+        <ymax>171</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>search</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>909</xmin>
+        <ymin>218</ymin>
+        <xmax>979</xmax>
+        <ymax>293</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>add</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>771</xmin>
+        <ymin>1164</ymin>
+        <xmax>828</xmax>
+        <ymax>1224</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1010</xmin>
+        <ymin>959</ymin>
+        <xmax>1056</xmax>
+        <ymax>999</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1020</xmin>
+        <ymin>218</ymin>
+        <xmax>1058</xmax>
+        <ymax>291</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>play</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>491</xmin>
+        <ymin>583</ymin>
+        <xmax>586</xmax>
+        <ymax>668</ymax>
+    </bndbox>
+</object>
+</annotation>

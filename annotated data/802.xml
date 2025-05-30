@@ -1,0 +1,51 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\802.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>274</xmin>
+        <ymin>1376</ymin>
+        <xmax>379</xmax>
+        <ymax>1487</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>162</xmin>
+        <ymin>1374</ymin>
+        <xmax>269</xmax>
+        <ymax>1488</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>star</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>221</xmin>
+        <ymin>1266</ymin>
+        <xmax>337</xmax>
+        <ymax>1381</ymax>
+    </bndbox>
+</object>
+</annotation>

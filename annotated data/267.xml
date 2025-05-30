@@ -1,0 +1,87 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\267.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1003</xmin>
+        <ymin>922</ymin>
+        <xmax>1052</xmax>
+        <ymax>977</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1005</xmin>
+        <ymin>801</ymin>
+        <xmax>1052</xmax>
+        <ymax>854</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1004</xmin>
+        <ymin>1047</ymin>
+        <xmax>1051</xmax>
+        <ymax>1099</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1004</xmin>
+        <ymin>592</ymin>
+        <xmax>1053</xmax>
+        <ymax>646</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1005</xmin>
+        <ymin>1171</ymin>
+        <xmax>1052</xmax>
+        <ymax>1224</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>expand more</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1004</xmin>
+        <ymin>1292</ymin>
+        <xmax>1053</xmax>
+        <ymax>1346</ymax>
+    </bndbox>
+</object>
+</annotation>

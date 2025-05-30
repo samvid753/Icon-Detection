@@ -1,0 +1,1 @@
+{"path": "C:\\Users\\gyans\\Desktop\\New folder\\New folder\\data1\\1970.jpg", "outputs": {"object": {"name": "search", "pose": "Unspecified", "truncated": "0", "difficult": "0", "bndbox": {"xmin": "477", "ymin": "107", "xmax": "526", "ymax": "162"}}}, "time_labeled": 1677265309954, "labeled": true, "size": {"width": "1080", "height": "1920", "depth": "3"}}

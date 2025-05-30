@@ -1,0 +1,1 @@
+{"path": "C:\\Users\\gyans\\Desktop\\New folder\\New folder\\data1\\1533.jpg", "outputs": {"object": {"name": "chat", "pose": "Unspecified", "truncated": "0", "difficult": "0", "bndbox": {"xmin": "339", "ymin": "1193", "xmax": "483", "ymax": "1329"}}}, "time_labeled": 1677265309954, "labeled": true, "size": {"width": "1080", "height": "1920", "depth": "3"}}

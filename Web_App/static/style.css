@@ -1,0 +1,71 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+@media(min-width: 800px) {
+
+  body {
+    background-image:url('img.png');
+    background-repeat:no-repeat;
+  /* background-attachment:fixed; */
+    background-position:center;
+  background-size: 110% 110%;
+  }
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    position: relative;
+    top: 170px;
+    left: 22%;
+  
+  }
+}
+
+@media(max-width: 800px) {
+
+  body {
+    background-image:url('mobile.png');
+    background-repeat:no-repeat;
+  /* background-attachment:fixed; */
+    background-position:center;
+  background-size: 100% 100%;
+  }
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    position: relative;
+    top: 140px;
+    left: 2%;
+  
+  }
+}
+
+h1{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}

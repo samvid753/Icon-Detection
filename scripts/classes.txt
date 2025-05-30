@@ -1,0 +1,26 @@
+star
+arrow backward
+arrow forward
+more
+menu
+search
+close
+add
+expand more
+play
+check
+share
+chat
+settings
+info
+home
+refresh
+time
+emoji
+edit
+notifications
+call
+pause
+send
+delete
+video cam

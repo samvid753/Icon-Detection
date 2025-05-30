@@ -1,0 +1,51 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\486.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>share</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>607</xmin>
+        <ymin>343</ymin>
+        <xmax>704</xmax>
+        <ymax>442</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>chat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>338</xmin>
+        <ymin>1512</ymin>
+        <xmax>484</xmax>
+        <ymax>1649</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>chat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>380</xmin>
+        <ymin>346</ymin>
+        <xmax>470</xmax>
+        <ymax>439</ymax>
+    </bndbox>
+</object>
+</annotation>

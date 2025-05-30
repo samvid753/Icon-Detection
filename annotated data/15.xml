@@ -1,0 +1,111 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>C:\Users\gyans\Desktop\New folder\New folder\data1\15.jpg</filename>
+<path>C:\Users\gyans\Desktop\New folder\New folder\data1</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>add</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>926</xmin>
+        <ymin>1637</ymin>
+        <xmax>1000</xmax>
+        <ymax>1717</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>arrow backward</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>38</xmin>
+        <ymin>101</ymin>
+        <xmax>109</xmax>
+        <ymax>172</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>info</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>986</xmin>
+        <ymin>437</ymin>
+        <xmax>1043</xmax>
+        <ymax>498</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>info</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>988</xmin>
+        <ymin>851</ymin>
+        <xmax>1042</xmax>
+        <ymax>907</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>check</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>887</xmin>
+        <ymin>1210</ymin>
+        <xmax>951</xmax>
+        <ymax>1273</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>info</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>986</xmin>
+        <ymin>643</ymin>
+        <xmax>1043</xmax>
+        <ymax>704</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>info</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>986</xmin>
+        <ymin>1212</ymin>
+        <xmax>1043</xmax>
+        <ymax>1272</ymax>
+    </bndbox>
+</object>
+<object>
+    <name>info</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>987</xmin>
+        <ymin>1445</ymin>
+        <xmax>1044</xmax>
+        <ymax>1505</ymax>
+    </bndbox>
+</object>
+</annotation>

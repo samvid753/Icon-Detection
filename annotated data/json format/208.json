@@ -1,0 +1,1 @@
+{"path": "C:\\Users\\gyans\\Desktop\\New folder\\New folder\\data1\\208.jpg", "outputs": {"object": {"name": "arrow forward", "pose": "Unspecified", "truncated": "0", "difficult": "0", "bndbox": {"xmin": "989", "ymin": "525", "xmax": "1026", "ymax": "581"}}}, "time_labeled": 1677265309954, "labeled": true, "size": {"width": "1080", "height": "1920", "depth": "3"}}
